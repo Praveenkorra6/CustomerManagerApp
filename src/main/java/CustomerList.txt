@@ -1,0 +1,23 @@
+[2023-11-18 02:56:17] Created a new Customer: {0} - {1} - {2} - {3}rez - rez@my.fit.edu - 48651485112 - 12/22/2202
+[2023-11-18 02:56:17] Customer added successfully!
+[2023-11-18 02:56:17] Data saved to file successfully!
+[2023-11-18 02:56:17] Command executed successfully: add
+[2023-11-18 02:56:26] Executing command: list
+[2023-11-18 02:56:35] Command executed successfully: list
+[2023-11-18 02:56:59] Executing command: list
+[2023-11-18 02:57:16] Command executed successfully: list
+[2023-11-18 02:58:18] Executing command: search
+[2023-11-18 02:58:22] Command executed successfully: search
+[2023-11-18 02:58:33] Executing command: help
+[2023-11-18 02:58:33] Command executed successfully: help
+[2023-11-18 02:58:49] Executing command: delete
+[2023-11-18 02:59:10] Customer not found with email:  rez@my.fit.edu
+[2023-11-18 02:59:10] Data saved to file successfully!
+[2023-11-18 02:59:10] Command executed successfully: delete
+[2023-11-18 02:59:19] Executing command: delete
+[2023-11-18 02:59:31] Customer deleted successfully!
+[2023-11-18 02:59:31] Data saved to file successfully!
+[2023-11-18 02:59:31] Command executed successfully: delete
+[2023-11-18 02:59:42] Data saved to file successfully!
+[2023-11-18 02:59:42] Executing command: exit
+[2023-11-18 02:59:42] Exiting the application

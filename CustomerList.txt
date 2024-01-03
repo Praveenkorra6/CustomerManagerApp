@@ -1,0 +1,54 @@
+[2023-11-29 16:40:14] Created a new Customer: {0} - {1} - {2} - {3}praveen - praveen@2022 - 32120548200 - 12/11/2022
+[2023-11-29 16:40:14] Customer added successfully!
+[2023-11-29 16:40:14] Data saved to file successfully!
+[2023-11-29 16:40:14] Command executed successfully: add
+[2023-11-29 16:40:19] Executing command: help
+[2023-11-29 16:40:19] Command executed successfully: help
+[2023-11-29 16:40:23] Executing command: list
+[2023-11-29 16:40:33] Command executed successfully: list
+[2023-11-29 16:40:40] Data saved to file successfully!
+[2023-11-29 16:40:40] Executing command: exit
+[2023-11-29 16:40:40] Exiting the application
+[2023-11-29 16:40:50] Added command: list
+[2023-11-29 16:40:50] Added command: add
+[2023-11-29 16:40:50] Added command: delete
+[2023-11-29 16:40:50] Added command: help
+[2023-11-29 16:40:50] Added command: exit
+[2023-11-29 16:40:50] Added command: search
+[2023-11-29 16:40:50] Created a new Customer: {0} - {1} - {2} - {3}praveen - praveen@2022 - 32120548200 - 12/11/2022
+[2023-11-29 16:40:50] Data loaded from file successfully!
+[2023-11-29 16:40:58] Executing command: list
+[2023-11-29 16:41:03] Command executed successfully: list
+[2023-11-29 16:41:08] Data saved to file successfully!
+[2023-11-29 16:41:08] Executing command: exit
+[2023-11-29 16:41:08] Exiting the application
+[2023-12-14 19:44:29] Added command: list
+[2023-12-14 19:44:29] Added command: add
+[2023-12-14 19:44:29] Added command: delete
+[2023-12-14 19:44:29] Added command: help
+[2023-12-14 19:44:29] Added command: exit
+[2023-12-14 19:44:29] Added command: search
+[2023-12-14 19:44:29] Created a new Customer: {0} - {1} - {2} - {3}praveen - praveen@2022 - 32120548200 - 12/11/2022
+[2023-12-14 19:44:29] Data loaded from file successfully!
+[2023-12-14 19:44:43] Executing command: help
+[2023-12-14 19:44:43] Command executed successfully: help
+[2023-12-14 19:44:51] Executing command: list
+[2023-12-14 19:45:12] Command executed successfully: list
+[2023-12-14 19:45:16] Data saved to file successfully!
+[2023-12-14 19:45:16] Executing command: exit
+[2023-12-14 19:45:16] Exiting the application
+[2023-12-14 19:58:15] Added command: list
+[2023-12-14 19:58:15] Added command: add
+[2023-12-14 19:58:15] Added command: delete
+[2023-12-14 19:58:15] Added command: help
+[2023-12-14 19:58:15] Added command: exit
+[2023-12-14 19:58:15] Added command: search
+[2023-12-14 19:58:15] Created a new Customer: {0} - {1} - {2} - {3}praveen - praveen@2022 - 32120548200 - 12/11/2022
+[2023-12-14 19:58:15] Data loaded from file successfully!
+[2023-12-14 19:58:20] Executing command: help
+[2023-12-14 19:58:20] Command executed successfully: help
+[2023-12-14 19:58:37] Executing command: list
+[2023-12-14 19:58:47] Command executed successfully: list
+[2023-12-14 19:58:52] Data saved to file successfully!
+[2023-12-14 19:58:52] Executing command: exit
+[2023-12-14 19:58:52] Exiting the application
