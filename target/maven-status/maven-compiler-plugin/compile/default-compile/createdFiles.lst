@@ -1,0 +1,10 @@
+com\mycompany\customermanagerapp\DeleteCommand.class
+com\mycompany\customermanagerapp\Command.class
+com\mycompany\customermanagerapp\AddCommand.class
+com\mycompany\customermanagerapp\HelpCommand.class
+com\mycompany\customermanagerapp\Receiver.class
+com\mycompany\customermanagerapp\Customer.class
+com\mycompany\customermanagerapp\ListCommand.class
+com\mycompany\customermanagerapp\CommandInvoker.class
+com\mycompany\customermanagerapp\ExitCommand.class
+com\mycompany\customermanagerapp\InMemoryDataStore.class
